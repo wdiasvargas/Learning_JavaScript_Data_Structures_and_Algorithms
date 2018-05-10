@@ -2,6 +2,7 @@
 Os dois operadores suportados por Javascript podem causar uma pequena confusao quando trabalhamos com them.
 Quando usamos `==`, valores podem ser considerados `equal` iguais quando eles sao diferentes tipos. Isso pode ser confuso even para um Desenvolvedor Senior Javascript.
 Let's analizar como `==` trabalha usando a tabela seguinte:
+
 | Type(x)        | Type(y)          | Result  |
 | ------------- |:-------------:| -----:|
 | `null`|`undefined`|`true` |
